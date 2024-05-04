@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ```bash
 npx create-next-app@latest
 ```
-this is me testing 
+this is me testing for 2nd time
 
 First, run the development server:
 
