@@ -2,7 +2,7 @@ export  default function ProductReview({params}:{
     params:{
         productId:String
         reviewId:String
-    }
+    };
 }){
     return <h1>product {params.productId} and review {params.reviewId}</h1>
 }
