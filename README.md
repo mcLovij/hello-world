@@ -4,9 +4,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ```bash
 npx create-next-app@latest
 ```
-This is sick
-
-First, run the development server:
 
 ```bash
 npm run dev
